@@ -219,9 +219,6 @@ Proxy data sources used include:
 
 ## References
 
-```markdown
-## References
-
 **UN Legal Instruments**
 
 1. UN General Assembly (1954). *Convention Relating to the Status of Stateless Persons.* New York: UN.
@@ -232,8 +229,6 @@ Proxy data sources used include:
 
 3. UN General Assembly (2015). *Transforming Our World: The 2030 Agenda for Sustainable Development* (SDG 16.9). New York: UN.
    → [SDG 16 full text](https://sdgs.un.org/goals/goal16) · [2030 Agenda resolution A/RES/70/1](https://sdgs.un.org/2030agenda)
-
----
 
 **UNHCR Reports & Campaigns**
 
@@ -249,8 +244,6 @@ Proxy data sources used include:
 7. UNHCR. *UN Conventions on Statelessness — overview.*
    → [UNHCR US explainer](https://www.unhcr.org/us/what-we-do/protect-human-rights/ending-statelessness/un-conventions-statelessness)
 
----
-
 **Research Organisations & Indices**
 
 8. Institute on Statelessness and Inclusion (2020). *The World's Stateless: Deprivation of Nationality.* Tilburg: ISI.
@@ -262,9 +255,7 @@ Proxy data sources used include:
 10. European Network on Statelessness. *ENS main site — resources, publications, litigation bulletin.*
     → [statelessness.eu](https://www.statelessness.eu/)
 
----
-
-**Population-Specific Sources** 
+**Population-Specific Sources**
 
 11. Open Society Justice Initiative (2010). *Nationality and Discrimination: The Case of Kenyan Nubians.* New York: OSJI.
     → [OSJI publication page](https://www.justiceinitiative.org/publications/nationality-and-discrimination-case-kenyan-nubians)
@@ -280,8 +271,6 @@ Proxy data sources used include:
 
 15. US Department of State (2022). *Country Reports on Human Rights Practices: Kenya.*
     → [State Dept. Kenya report](https://www.state.gov/reports/2022-country-reports-on-human-rights-practices/kenya)
-
----
 
 **Academic**
 
