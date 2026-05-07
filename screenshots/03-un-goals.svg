@@ -1,0 +1,128 @@
+<svg viewBox="0 0 560 540" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, sans-serif">
+  <rect width="560" height="540" fill="#f5f4f0" rx="16"/>
+  <text x="28" y="30" font-size="11" fill="#9a9890" font-weight="500" letter-spacing="0.06em">UN GOALS — #IBELONG · SDG 16.9 ALIGNMENT</text>
+
+  <!-- Main card -->
+  <rect x="20" y="44" width="520" height="480" fill="white" rx="12" stroke="#e0dfd9" stroke-width="0.5"/>
+
+  <!-- Tabs -->
+  <text x="36" y="72" font-size="11" fill="#9a9890">Rights map</text>
+  <text x="104" y="72" font-size="11" fill="#9a9890">Risk factors</text>
+  <text x="172" y="72" font-size="11" fill="#9a9890">Solutions</text>
+  <text x="232" y="72" font-size="11" fill="#1a1a18" font-weight="500">UN goals</text>
+  <line x1="228" y1="82" x2="276" y2="82" stroke="#1a1a18" stroke-width="2"/>
+  <line x1="20" y1="84" x2="540" y2="84" stroke="#eeede8" stroke-width="0.5"/>
+
+  <!-- UNHCR 10-point plan -->
+  <text x="36" y="104" font-size="9" fill="#9a9890" font-weight="500" letter-spacing="0.06em">UNHCR 10-POINT ACTION PLAN — #IBELONG</text>
+
+  <!-- Action items: s=status c=complete p=partial n=none -->
+  <!-- Row 1 -->
+  <circle cx="50" cy="124" r="10" fill="#fcebeb"/>
+  <text x="50" y="128" font-size="9" fill="#a32d2d" text-anchor="middle">1</text>
+  <text x="68" y="121" font-size="11" fill="#1a1a18" font-weight="500">Resolve statelessness situation</text>
+  <text x="68" y="135" font-size="10" fill="#6b6a66">Myanmar's 1982 law excludes Rohingya. No bilateral mechanism exists.</text>
+
+  <line x1="36" y1="146" x2="524" y2="146" stroke="#f0efe9" stroke-width="0.5"/>
+
+  <circle cx="50" cy="162" r="10" fill="#fcebeb"/>
+  <text x="50" y="166" font-size="9" fill="#a32d2d" text-anchor="middle">2</text>
+  <text x="68" y="159" font-size="11" fill="#1a1a18" font-weight="500">No child born stateless</text>
+  <text x="68" y="173" font-size="10" fill="#6b6a66">Children inherit statelessness. Birth registration in camps below 15%.</text>
+
+  <line x1="36" y1="184" x2="524" y2="184" stroke="#f0efe9" stroke-width="0.5"/>
+
+  <circle cx="50" cy="200" r="10" fill="#faeeda"/>
+  <text x="50" y="204" font-size="9" fill="#854f0b" text-anchor="middle">~</text>
+  <text x="68" y="197" font-size="11" fill="#1a1a18" font-weight="500">Protection status granted</text>
+  <text x="68" y="211" font-size="10" fill="#6b6a66">UNHCR registers as refugees; no formal statelessness determination conducted.</text>
+
+  <line x1="36" y1="222" x2="524" y2="222" stroke="#f0efe9" stroke-width="0.5"/>
+
+  <circle cx="50" cy="238" r="10" fill="#fcebeb"/>
+  <text x="50" y="242" font-size="9" fill="#a32d2d" text-anchor="middle">4</text>
+  <text x="68" y="235" font-size="11" fill="#1a1a18" font-weight="500">Remove gender discrimination</text>
+  <text x="68" y="249" font-size="10" fill="#6b6a66">Ethnic exclusion under 1982 law; law has not been reformed.</text>
+
+  <line x1="36" y1="260" x2="524" y2="260" stroke="#f0efe9" stroke-width="0.5"/>
+
+  <circle cx="50" cy="276" r="10" fill="#faeeda"/>
+  <text x="50" y="280" font-size="9" fill="#854f0b" text-anchor="middle">~</text>
+  <text x="68" y="273" font-size="11" fill="#1a1a18" font-weight="500">Regularise stateless migrants</text>
+  <text x="68" y="287" font-size="10" fill="#6b6a66">UNHCR/GoB camp ID cards issued — not legal residency or citizenship.</text>
+
+  <!-- Legend row for action items -->
+  <circle cx="36" cy="308" r="8" fill="#eaf3de"/>
+  <text x="36" y="312" font-size="8" fill="#3b6d11" text-anchor="middle">✓</text>
+  <text x="50" y="312" font-size="10" fill="#6b6a66">Achieved</text>
+  <circle cx="108" cy="308" r="8" fill="#faeeda"/>
+  <text x="108" y="312" font-size="8" fill="#854f0b" text-anchor="middle">~</text>
+  <text x="122" y="312" font-size="10" fill="#6b6a66">Partial progress</text>
+  <circle cx="200" cy="308" r="8" fill="#fcebeb"/>
+  <text x="200" y="312" font-size="8" fill="#a32d2d" text-anchor="middle">✕</text>
+  <text x="214" y="312" font-size="10" fill="#6b6a66">Not achieved</text>
+
+  <!-- SDG section -->
+  <text x="36" y="336" font-size="9" fill="#9a9890" font-weight="500" letter-spacing="0.06em">SDG ALIGNMENT — PROXY ACHIEVEMENT SCORES</text>
+
+  <!-- SDG grid -->
+  <!-- Row 1 -->
+  <rect x="36" y="346" width="112" height="64" fill="#f5f4f0" rx="8"/>
+  <text x="48" y="364" font-size="9" fill="#6b6a66" font-weight="500">SDG 1.3</text>
+  <text x="48" y="378" font-size="10" fill="#1a1a18" font-weight="500">Social protection</text>
+  <rect x="48" y="386" width="88" height="4" fill="#eeede8" rx="2"/>
+  <rect x="48" y="386" width="18" height="4" fill="#BA7517" rx="2"/>
+  <text x="48" y="402" font-size="9" fill="#6b6a66">20% achieved</text>
+
+  <rect x="156" y="346" width="112" height="64" fill="#f5f4f0" rx="8"/>
+  <text x="168" y="364" font-size="9" fill="#6b6a66" font-weight="500">SDG 3.8</text>
+  <text x="168" y="378" font-size="10" fill="#1a1a18" font-weight="500">Health coverage</text>
+  <rect x="168" y="386" width="88" height="4" fill="#eeede8" rx="2"/>
+  <rect x="168" y="386" width="16" height="4" fill="#639922" rx="2"/>
+  <text x="168" y="402" font-size="9" fill="#6b6a66">18% achieved</text>
+
+  <rect x="276" y="346" width="112" height="64" fill="#f5f4f0" rx="8"/>
+  <text x="288" y="364" font-size="9" fill="#6b6a66" font-weight="500">SDG 4.1</text>
+  <text x="288" y="378" font-size="10" fill="#1a1a18" font-weight="500">Quality education</text>
+  <rect x="288" y="386" width="88" height="4" fill="#eeede8" rx="2"/>
+  <rect x="288" y="386" width="22" height="4" fill="#1D9E75" rx="2"/>
+  <text x="288" y="402" font-size="9" fill="#6b6a66">25% achieved</text>
+
+  <rect x="396" y="346" width="112" height="64" fill="#f5f4f0" rx="8"/>
+  <text x="408" y="364" font-size="9" fill="#6b6a66" font-weight="500">SDG 8.5</text>
+  <text x="408" y="378" font-size="10" fill="#1a1a18" font-weight="500">Decent work</text>
+  <rect x="408" y="386" width="88" height="4" fill="#eeede8" rx="2"/>
+  <rect x="408" y="386" width="9" height="4" fill="#378ADD" rx="2"/>
+  <text x="408" y="402" font-size="9" fill="#6b6a66">10% achieved</text>
+
+  <!-- Row 2 -->
+  <rect x="36" y="418" width="112" height="64" fill="#f5f4f0" rx="8"/>
+  <text x="48" y="436" font-size="9" fill="#6b6a66" font-weight="500">SDG 10.7</text>
+  <text x="48" y="450" font-size="10" fill="#1a1a18" font-weight="500">Safe migration</text>
+  <rect x="48" y="458" width="88" height="4" fill="#eeede8" rx="2"/>
+  <rect x="48" y="458" width="26" height="4" fill="#5DCAA5" rx="2"/>
+  <text x="48" y="474" font-size="9" fill="#6b6a66">30% achieved</text>
+
+  <rect x="156" y="418" width="112" height="64" fill="#f5f4f0" rx="8"/>
+  <text x="168" y="436" font-size="9" fill="#6b6a66" font-weight="500">SDG 16.1</text>
+  <text x="168" y="450" font-size="10" fill="#1a1a18" font-weight="500">Reduce violence</text>
+  <rect x="168" y="458" width="88" height="4" fill="#eeede8" rx="2"/>
+  <rect x="168" y="458" width="13" height="4" fill="#7F77DD" rx="2"/>
+  <text x="168" y="474" font-size="9" fill="#6b6a66">15% achieved</text>
+
+  <rect x="276" y="418" width="112" height="64" fill="#f5f4f0" rx="8"/>
+  <text x="288" y="436" font-size="9" fill="#6b6a66" font-weight="500">SDG 16.3</text>
+  <text x="288" y="450" font-size="10" fill="#1a1a18" font-weight="500">Rule of law</text>
+  <rect x="288" y="458" width="88" height="4" fill="#eeede8" rx="2"/>
+  <rect x="288" y="458" width="7" height="4" fill="#D85A30" rx="2"/>
+  <text x="288" y="474" font-size="9" fill="#6b6a66">8% achieved</text>
+
+  <rect x="396" y="418" width="112" height="64" fill="#f9e8e8" rx="8" stroke="#f0c0c0" stroke-width="0.5"/>
+  <text x="408" y="436" font-size="9" fill="#6b6a66" font-weight="500">SDG 16.9</text>
+  <text x="408" y="450" font-size="10" fill="#1a1a18" font-weight="500">Legal identity</text>
+  <rect x="408" y="458" width="88" height="4" fill="#eeede8" rx="2"/>
+  <rect x="408" y="458" width="2" height="4" fill="#E24B4A" rx="2"/>
+  <text x="408" y="474" font-size="9" fill="#a32d2d" font-weight="500">2% achieved ← critical gap</text>
+
+  <text x="36" y="500" font-size="9" fill="#9a9890">SDG scores proxy-estimated from UNHCR annual reports · UPR submissions · OSJI · ENS · ISI research</text>
+</svg>

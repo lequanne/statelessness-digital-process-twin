@@ -1,0 +1,75 @@
+<svg viewBox="0 0 620 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, sans-serif">
+  <rect width="620" height="380" fill="#f5f4f0" rx="16"/>
+  <text x="28" y="30" font-size="11" fill="#9a9890" font-weight="500" letter-spacing="0.06em">SYSTEM ARCHITECTURE — DATA FLOW</text>
+
+  <!-- Layer 1: Data sources -->
+  <text x="28" y="58" font-size="10" fill="#9a9890" font-weight="500">LAYER 1 — PROXY DATA SOURCES</text>
+  <rect x="20" y="66" width="110" height="44" fill="#e6f1fb" rx="8" stroke="#185fa5" stroke-width="0.5"/>
+  <text x="75" y="85" font-size="10" fill="#185fa5" font-weight="500" text-anchor="middle">UNHCR</text>
+  <text x="75" y="99" font-size="9" fill="#185fa5" text-anchor="middle">Global Trends</text>
+
+  <rect x="140" y="66" width="110" height="44" fill="#e6f1fb" rx="8" stroke="#185fa5" stroke-width="0.5"/>
+  <text x="195" y="85" font-size="10" fill="#185fa5" font-weight="500" text-anchor="middle">OSJI / ISI</text>
+  <text x="195" y="99" font-size="9" fill="#185fa5" text-anchor="middle">Research profiles</text>
+
+  <rect x="260" y="66" width="110" height="44" fill="#e6f1fb" rx="8" stroke="#185fa5" stroke-width="0.5"/>
+  <text x="315" y="85" font-size="10" fill="#185fa5" font-weight="500" text-anchor="middle">UN UPR</text>
+  <text x="315" y="99" font-size="9" fill="#185fa5" text-anchor="middle">Country submissions</text>
+
+  <rect x="380" y="66" width="110" height="44" fill="#e6f1fb" rx="8" stroke="#185fa5" stroke-width="0.5"/>
+  <text x="435" y="85" font-size="10" fill="#185fa5" font-weight="500" text-anchor="middle">ENS / UNHCR</text>
+  <text x="435" y="99" font-size="9" fill="#185fa5" text-anchor="middle">Statelessness index</text>
+
+  <rect x="500" y="66" width="110" height="44" fill="#e6f1fb" rx="8" stroke="#185fa5" stroke-width="0.5"/>
+  <text x="555" y="85" font-size="10" fill="#185fa5" font-weight="500" text-anchor="middle">SDG Monitor</text>
+  <text x="555" y="99" font-size="9" fill="#185fa5" text-anchor="middle">Goal indicators</text>
+
+  <!-- Arrows down -->
+  <line x1="310" y1="110" x2="310" y2="136" stroke="#c8c7c2" stroke-width="1" marker-end="url(#arr)"/>
+
+  <!-- Layer 2: Model -->
+  <text x="28" y="156" font-size="10" fill="#9a9890" font-weight="500">LAYER 2 — DIGITAL TWIN MODEL</text>
+  <rect x="20" y="164" width="580" height="72" fill="#eaf3de" rx="10" stroke="#3b6d11" stroke-width="0.5"/>
+
+  <rect x="40" y="180" width="130" height="40" fill="white" rx="6" stroke="#3b6d11" stroke-width="0.5"/>
+  <text x="105" y="198" font-size="10" fill="#3b6d11" font-weight="500" text-anchor="middle">Population profiles</text>
+  <text x="105" y="212" font-size="9" fill="#6b6a66" text-anchor="middle">6 stateless groups</text>
+
+  <rect x="184" y="180" width="130" height="40" fill="white" rx="6" stroke="#3b6d11" stroke-width="0.5"/>
+  <text x="249" y="198" font-size="10" fill="#3b6d11" font-weight="500" text-anchor="middle">Rights scoring</text>
+  <text x="249" y="212" font-size="9" fill="#6b6a66" text-anchor="middle">8 Convention articles</text>
+
+  <rect x="328" y="180" width="130" height="40" fill="white" rx="6" stroke="#3b6d11" stroke-width="0.5"/>
+  <text x="393" y="198" font-size="10" fill="#3b6d11" font-weight="500" text-anchor="middle">Risk assessment</text>
+  <text x="393" y="212" font-size="9" fill="#6b6a66" text-anchor="middle">6 vulnerability factors</text>
+
+  <rect x="472" y="180" width="112" height="40" fill="white" rx="6" stroke="#3b6d11" stroke-width="0.5"/>
+  <text x="528" y="198" font-size="10" fill="#3b6d11" font-weight="500" text-anchor="middle">Solutions pathway</text>
+  <text x="528" y="212" font-size="9" fill="#6b6a66" text-anchor="middle">Durable solutions map</text>
+
+  <!-- Arrow down -->
+  <line x1="310" y1="236" x2="310" y2="258" stroke="#c8c7c2" stroke-width="1" marker-end="url(#arr)"/>
+
+  <!-- Layer 3: Framework -->
+  <text x="28" y="278" font-size="10" fill="#9a9890" font-weight="500">LAYER 3 — NORMATIVE FRAMEWORK</text>
+  <rect x="20" y="286" width="580" height="44" fill="#faeeda" rx="10" stroke="#854f0b" stroke-width="0.5"/>
+
+  <text x="75" y="314" font-size="10" fill="#854f0b" font-weight="500" text-anchor="middle">1954 Convention</text>
+  <line x1="135" y1="298" x2="135" y2="322" stroke="#e8c48a" stroke-width="0.5"/>
+  <text x="195" y="314" font-size="10" fill="#854f0b" font-weight="500" text-anchor="middle">1961 Convention</text>
+  <line x1="255" y1="298" x2="255" y2="322" stroke="#e8c48a" stroke-width="0.5"/>
+  <text x="315" y="314" font-size="10" fill="#854f0b" font-weight="500" text-anchor="middle">UNHCR #IBelong</text>
+  <line x1="375" y1="298" x2="375" y2="322" stroke="#e8c48a" stroke-width="0.5"/>
+  <text x="435" y="314" font-size="10" fill="#854f0b" font-weight="500" text-anchor="middle">SDG 16.9</text>
+  <line x1="495" y1="298" x2="495" y2="322" stroke="#e8c48a" stroke-width="0.5"/>
+  <text x="553" y="314" font-size="10" fill="#854f0b" font-weight="500" text-anchor="middle">IACHR / UPR</text>
+
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arr" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#c8c7c2"/>
+    </marker>
+  </defs>
+
+  <text x="28" y="360" font-size="10" fill="#9a9890">Synthetic individual profiles are generated from population-level aggregate proxy data — not from real individuals.</text>
+</svg>
