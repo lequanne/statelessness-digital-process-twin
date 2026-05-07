@@ -219,16 +219,74 @@ Proxy data sources used include:
 
 ## References
 
-- UNHCR (2023). *Global Trends: Forced Displacement in 2022.* Geneva: UNHCR.
-- Institute on Statelessness and Inclusion (2020). *The World's Stateless.* Tilburg: ISI.
-- Open Society Justice Initiative (2014). *Stateless in the Dominican Republic.* New York: OSJI.
-- European Network on Statelessness (2022). *Statelessness Index.* London: ENS.
-- UN General Assembly (1954). *Convention Relating to the Status of Stateless Persons.* New York: UN.
-- UN General Assembly (1961). *Convention on the Reduction of Statelessness.* New York: UN.
-- UNHCR (2014). *Global Action Plan to End Statelessness: 2014–2024.* Geneva: UNHCR.
-- UN General Assembly (2015). *Transforming Our World: The 2030 Agenda for Sustainable Development.* (SDG 16.9). New York: UN.
-- Human Rights Watch (2000). *Discrimination in Kenya: The Plight of Nubians.* New York: HRW.
-- Blitz, B.K. & Lynch, M. (Eds.) (2011). *Statelessness and Citizenship: A Comparative Study on the Benefits of Nationality.* Cheltenham: Edward Elgar.
+```markdown
+## References
+
+**UN Legal Instruments**
+
+1. UN General Assembly (1954). *Convention Relating to the Status of Stateless Persons.* New York: UN.
+   → [Full text — OHCHR](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-relating-status-stateless-persons) · [Treaty collection — UN](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=V-3&chapter=5&clang=_en)
+
+2. UN General Assembly (1961). *Convention on the Reduction of Statelessness.* New York: UN.
+   → [Full text — OHCHR](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-reduction-statelessness) · [Treaty collection — UN](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=V-4&chapter=5&clang=_en)
+
+3. UN General Assembly (2015). *Transforming Our World: The 2030 Agenda for Sustainable Development* (SDG 16.9). New York: UN.
+   → [SDG 16 full text](https://sdgs.un.org/goals/goal16) · [2030 Agenda resolution A/RES/70/1](https://sdgs.un.org/2030agenda)
+
+---
+
+**UNHCR Reports & Campaigns**
+
+4. UNHCR (2023). *Global Trends: Forced Displacement in 2022.* Geneva: UNHCR.
+   → [Report landing page](https://www.unhcr.org/global-trends-report-2022) · [Data portal](https://data.unhcr.org/en/documents/details/101302)
+
+5. UNHCR (2014). *Global Action Plan to End Statelessness: 2014–2024.* Geneva: UNHCR.
+   → [#IBelong campaign page](https://www.unhcr.org/ibelong/global-action-plan-2014-2024/) · [PDF via UNHCR Emergency Handbook](https://emergency.unhcr.org/sites/default/files/2023-12/Global%20Action%20Plan%20to%20end%20Statelessness,%202014-2024.pdf)
+
+6. UNHCR (2024). *Global Action Plan to End Statelessness 2.0.* Geneva: UNHCR.
+   → [Refworld](https://www.refworld.org/policy/strategy/unhcr/2024/en/148761)
+
+7. UNHCR. *UN Conventions on Statelessness — overview.*
+   → [UNHCR US explainer](https://www.unhcr.org/us/what-we-do/protect-human-rights/ending-statelessness/un-conventions-statelessness)
+
+---
+
+**Research Organisations & Indices**
+
+8. Institute on Statelessness and Inclusion (2020). *The World's Stateless: Deprivation of Nationality.* Tilburg: ISI.
+   → [Refworld record](https://www.refworld.org/reference/themreport/isi/2020/en/123325) · [ISI flagship reports](https://www.institutesi.org/our-work/research)
+
+9. European Network on Statelessness (2023). *Statelessness Index.* London: ENS.
+   → [Live index](https://index.statelessness.eu/) · [Methodology](https://index.statelessness.eu/about/methodology) · [2023 update editorial](https://www.statelessness.eu/updates/editorial/statelessnessindex-shows-opportunities-protect-stateless-people-europe-we-must)
+
+10. European Network on Statelessness. *ENS main site — resources, publications, litigation bulletin.*
+    → [statelessness.eu](https://www.statelessness.eu/)
+
+---
+
+**Population-Specific Sources** 
+
+11. Open Society Justice Initiative (2010). *Nationality and Discrimination: The Case of Kenyan Nubians.* New York: OSJI.
+    → [OSJI publication page](https://www.justiceinitiative.org/publications/nationality-and-discrimination-case-kenyan-nubians)
+
+12. Open Society Justice Initiative. *The Nubian Predicament: Colonial Legacy, Discrimination, and Statelessness.*
+    → [OSJI article](https://www.justiceinitiative.org/voices/nubian-predicament-story-about-colonial-legacy-discrimination-and-statelessness)
+
+13. Amnesty International (2015). *Statelessness in the Dominican Republic.*
+    → [AMR 27/2755/2015](https://www.amnesty.org/en/documents/amr27/2755/2015/en/)
+
+14. Human Rights Watch (2022). *World Report — Kenya chapter* (includes Nubian statelessness).
+    → [HRW Kenya 2022](https://www.hrw.org/world-report/2022/country-chapters/kenya)
+
+15. US Department of State (2022). *Country Reports on Human Rights Practices: Kenya.*
+    → [State Dept. Kenya report](https://www.state.gov/reports/2022-country-reports-on-human-rights-practices/kenya)
+
+---
+
+**Academic**
+
+16. Blitz, B.K. & Lynch, M. (Eds.) (2011). *Statelessness and Citizenship: A Comparative Study on the Benefits of Nationality.* Cheltenham: Edward Elgar.
+    → [Publisher page — Elgar Online](https://www.elgaronline.com/view/edcoll/9781849800679/9781849800679.xml) · [WorldCat record](https://lawcat.berkeley.edu/record/191161)
 
 ---
 
